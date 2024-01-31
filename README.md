@@ -11,6 +11,7 @@
 
 - Restore the Database in PHPMyAdmin (laravel.sql inside this files)
 - npm run build
+- composer update
 - php artisan serve
 
 - Now test it.
